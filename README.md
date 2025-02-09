@@ -98,7 +98,7 @@ A significant volume of analog information, i.e., documents and images, have bee
 
 ✨ [2024-03-26] Our codes are released.  
 📃 [2024-02-08] Our paper is uploaded on arXiv.  
-🎉 [2023-12-09] Our paper is accepted by AAAI 2024.  
+🎉 [2023-12-09] Our paper is accepted at AAAI 2024.  
 
 ## Citation
 
